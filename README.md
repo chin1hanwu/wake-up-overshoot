@@ -99,7 +99,7 @@ python posthoc/silence_loss.py
 
 ## License
 
-Code: MIT (see `LICENSE`). The real-data results in `results/` are derived from Binance market
+Code: Apache-2.0 (see `LICENSE`). The real-data results in `results/` are derived from Binance market
 data, which Binance provides under CC BY-NC-SA 4.0; they are shared under the same license with
 attribution to Binance. The synthetic results and theory outputs are released under CC BY 4.0.
 
