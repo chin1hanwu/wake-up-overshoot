@@ -1,0 +1,2 @@
+prior_rate,prior_variance,explicit_log10_rate,implicit_rate,implicit_own_silence_rate,undamped_iterations,undamped_max_log10_rate,bisection_iterations,bisection_bound,bisection_width,bisection_abs_error
+0.008045066543272021,4.074701636875791,86.24105219584929,942.7125777156207,942.8617549132574,198,86.24105219584929,43,43,11.730451506171658,3.8458125573015423e-13

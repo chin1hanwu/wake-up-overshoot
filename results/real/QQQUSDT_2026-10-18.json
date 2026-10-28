@@ -1,0 +1,330 @@
+{
+ "source": {
+  "symbol": "QQQUSDT",
+  "day": "2026-10-18",
+  "file": "QQQUSDT-aggTrades-2026-10-18.zip",
+  "events": 40632
+ },
+ "records": [
+  {
+   "symbol": "QQQUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 5.3749914297444485
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.235453752589303
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 155
+  },
+  {
+   "symbol": "QQQUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 5.374785443084766
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.246089978118826
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 155
+  },
+  {
+   "symbol": "QQQUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.375129821755221
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.2354202064721225
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 155
+  },
+  {
+   "symbol": "QQQUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.363576153485748
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.2581014701483575
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 155
+  },
+  {
+   "symbol": "QQQUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 5.369531309780138
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.239434266539008
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 155
+  },
+  {
+   "symbol": "QQQUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 5.253852195263612
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.1255317166882115
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 155
+  },
+  {
+   "symbol": "QQQUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 5.251875123244853
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.148675476162586
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 155
+  },
+  {
+   "symbol": "QQQUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.253857003783853
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.12552706233686
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 155
+  },
+  {
+   "symbol": "QQQUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.243543960859435
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.161182021494175
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 155
+  },
+  {
+   "symbol": "QQQUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 5.249556476328853
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.157754978291304
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 155
+  },
+  {
+   "symbol": "QQQUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 5.090940304003954
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.97819842040176
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 155
+  },
+  {
+   "symbol": "QQQUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 5.085860714025603
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.99605957528081
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 155
+  },
+  {
+   "symbol": "QQQUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.0882068628835055
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.985021867974551
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 155
+  },
+  {
+   "symbol": "QQQUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.076179125616014
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.015525299152241
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 155
+  },
+  {
+   "symbol": "QQQUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 5.082257429275117
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.001710601746029
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 155
+  },
+  {
+   "symbol": "QQQUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 4.919876044083646
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.8310737568322293
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 155
+  },
+  {
+   "symbol": "QQQUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 4.915850195659917
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.8566474934894512
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 155
+  },
+  {
+   "symbol": "QQQUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 4.919876044083841
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.831073756834697
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 155
+  },
+  {
+   "symbol": "QQQUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 4.908774677923327
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.8589626652913673
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 155
+  },
+  {
+   "symbol": "QQQUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 4.914564218547132
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.8546524348289024
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 155
+  }
+ ]
+}

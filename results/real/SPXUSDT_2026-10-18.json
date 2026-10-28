@@ -1,0 +1,330 @@
+{
+ "source": {
+  "symbol": "SPXUSDT",
+  "day": "2026-10-18",
+  "file": "SPXUSDT-aggTrades-2026-10-18.zip",
+  "events": 63561
+ },
+ "records": [
+  {
+   "symbol": "SPXUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 5.55304290237221
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.2944960625720814
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 254
+  },
+  {
+   "symbol": "SPXUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 5.551170780061183
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.3022468865412087
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 254
+  },
+  {
+   "symbol": "SPXUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.553046608970456
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.2943311945608813
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 254
+  },
+  {
+   "symbol": "SPXUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.548994600670956
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.333108396363872
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 254
+  },
+  {
+   "symbol": "SPXUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 5.551716946161068
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.310181223090188
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 254
+  },
+  {
+   "symbol": "SPXUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 5.424722916825613
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.1691438171607818
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 254
+  },
+  {
+   "symbol": "SPXUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 5.421188708078636
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.1865193589778684
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 254
+  },
+  {
+   "symbol": "SPXUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.424722916825613
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.1691438171607818
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 254
+  },
+  {
+   "symbol": "SPXUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.417649823780408
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.209438070011161
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 254
+  },
+  {
+   "symbol": "SPXUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 5.419722927690804
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.1980370100041418
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 254
+  },
+  {
+   "symbol": "SPXUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 5.250254291795313
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.0027569857530274
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 254
+  },
+  {
+   "symbol": "SPXUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 5.247049403239694
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.0190531930355253
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 254
+  },
+  {
+   "symbol": "SPXUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.248782214047402
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.0090096620296554
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 254
+  },
+  {
+   "symbol": "SPXUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.240735771248318
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.042695507836738
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 254
+  },
+  {
+   "symbol": "SPXUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 5.24763417253486
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.0364629790660893
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 254
+  },
+  {
+   "symbol": "SPXUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 5.0352670338985455
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.829613364218158
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 254
+  },
+  {
+   "symbol": "SPXUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 5.0335798327648025
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.8542946329617584
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 254
+  },
+  {
+   "symbol": "SPXUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.0352670338985455
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.829613364218158
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 254
+  },
+  {
+   "symbol": "SPXUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.028549860955994
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.860301759263046
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 254
+  },
+  {
+   "symbol": "SPXUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 5.03315386051399
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.855797455853141
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 254
+  }
+ ]
+}

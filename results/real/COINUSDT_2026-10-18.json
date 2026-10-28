@@ -1,0 +1,330 @@
+{
+ "source": {
+  "symbol": "COINUSDT",
+  "day": "2026-10-18",
+  "file": "COINUSDT-aggTrades-2026-10-18.zip",
+  "events": 33453
+ },
+ "records": [
+  {
+   "symbol": "COINUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 5.319057348293641
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.276653469756942
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 72
+  },
+  {
+   "symbol": "COINUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 5.3175176443886665
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.282387728110061
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 72
+  },
+  {
+   "symbol": "COINUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.319117536858391
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.2763253856889545
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 72
+  },
+  {
+   "symbol": "COINUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.306584595832206
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.305036922512473
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 72
+  },
+  {
+   "symbol": "COINUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 5.3107716754182945
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.274417928401965
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 72
+  },
+  {
+   "symbol": "COINUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 5.209031044227109
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.16596668782424
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 72
+  },
+  {
+   "symbol": "COINUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 5.206627264062138
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.180164021807948
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 72
+  },
+  {
+   "symbol": "COINUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.209033360826931
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.165981504197368
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 72
+  },
+  {
+   "symbol": "COINUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.202601490037503
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.1978196621898025
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 72
+  },
+  {
+   "symbol": "COINUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 5.204869188260633
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.182035293618748
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 72
+  },
+  {
+   "symbol": "COINUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 5.063483774882286
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.021200859301884
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 72
+  },
+  {
+   "symbol": "COINUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 5.060470027260721
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.035602371685354
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 72
+  },
+  {
+   "symbol": "COINUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.061562575008259
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.026873692666728
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 72
+  },
+  {
+   "symbol": "COINUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.059241279719467
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.053790356788117
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 72
+  },
+  {
+   "symbol": "COINUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 5.060022058514696
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.035542941208095
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 72
+  },
+  {
+   "symbol": "COINUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 4.890466695468749
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.8626770529871486
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 72
+  },
+  {
+   "symbol": "COINUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 4.888101662702299
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.883890134270767
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 72
+  },
+  {
+   "symbol": "COINUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 4.890466695470657
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.8626770529882237
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 72
+  },
+  {
+   "symbol": "COINUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 4.886929873180708
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.887008091674079
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 72
+  },
+  {
+   "symbol": "COINUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 4.887283252280595
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.881142477550773
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 72
+  }
+ ]
+}

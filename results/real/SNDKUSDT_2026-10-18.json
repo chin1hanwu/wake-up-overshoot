@@ -1,0 +1,330 @@
+{
+ "source": {
+  "symbol": "SNDKUSDT",
+  "day": "2026-10-18",
+  "file": "SNDKUSDT-aggTrades-2026-10-18.zip",
+  "events": 435031
+ },
+ "records": [
+  {
+   "symbol": "SNDKUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 6.2779908001629146
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.8262949352767057
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 2204
+  },
+  {
+   "symbol": "SNDKUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 6.277556938008613
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.837489670217151
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 2204
+  },
+  {
+   "symbol": "SNDKUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 6.2779908001629146
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.8262949352767057
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 2204
+  },
+  {
+   "symbol": "SNDKUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 6.274055321129214
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.8816854466070816
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 2204
+  },
+  {
+   "symbol": "SNDKUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 6.289174629282971
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.8645765812415243
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 2204
+  },
+  {
+   "symbol": "SNDKUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 6.133464414213238
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.6926428641184192
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 2204
+  },
+  {
+   "symbol": "SNDKUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 6.135503262765489
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.7196688130549167
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 2204
+  },
+  {
+   "symbol": "SNDKUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 6.133464414213238
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.6926428641184192
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 2204
+  },
+  {
+   "symbol": "SNDKUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 6.152836057282266
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.76978740016572
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 2204
+  },
+  {
+   "symbol": "SNDKUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 6.140031029344027
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.7467121152663663
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 2204
+  },
+  {
+   "symbol": "SNDKUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 5.921989867705624
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.5055675861753532
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 2204
+  },
+  {
+   "symbol": "SNDKUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 5.922736948746185
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.5309411720941264
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 2204
+  },
+  {
+   "symbol": "SNDKUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.959292974999142
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.514652546547293
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 2204
+  },
+  {
+   "symbol": "SNDKUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.9488396213550985
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.598354622276836
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 2204
+  },
+  {
+   "symbol": "SNDKUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 5.930738699655415
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.5781907086136626
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 2204
+  },
+  {
+   "symbol": "SNDKUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 5.689019022843541
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.2798515884677837
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 2204
+  },
+  {
+   "symbol": "SNDKUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 5.683434404442638
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.316410411349712
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 2204
+  },
+  {
+   "symbol": "SNDKUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.689019022843541
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.2798515884677837
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 2204
+  },
+  {
+   "symbol": "SNDKUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.7080651956953865
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.3650643030983
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 2204
+  },
+  {
+   "symbol": "SNDKUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 5.683437097386074
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 2.3221934540881777
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 2204
+  }
+ ]
+}

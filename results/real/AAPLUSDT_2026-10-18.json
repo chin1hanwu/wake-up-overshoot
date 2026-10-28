@@ -1,0 +1,330 @@
+{
+ "source": {
+  "symbol": "AAPLUSDT",
+  "day": "2026-10-18",
+  "file": "AAPLUSDT-aggTrades-2026-10-18.zip",
+  "events": 13734
+ },
+ "records": [
+  {
+   "symbol": "AAPLUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 4.980202562183244
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.316672759609803
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 297
+  },
+  {
+   "symbol": "AAPLUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 4.976045446093848
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.320587392639328
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 297
+  },
+  {
+   "symbol": "AAPLUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 4.980737168966363
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.317062820599965
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 297
+  },
+  {
+   "symbol": "AAPLUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 4.96294455151318
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.337920420006049
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 297
+  },
+  {
+   "symbol": "AAPLUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 4.967895620910325
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.2950364168290545
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 297
+  },
+  {
+   "symbol": "AAPLUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 4.884237700664
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.212653670826075
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 297
+  },
+  {
+   "symbol": "AAPLUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 4.874782229577922
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.222057942156954
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 297
+  },
+  {
+   "symbol": "AAPLUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 4.884305667554444
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.213424186157042
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 297
+  },
+  {
+   "symbol": "AAPLUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 4.862830405703704
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.233096450641625
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 297
+  },
+  {
+   "symbol": "AAPLUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 4.869013242630471
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.20934633388289
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 297
+  },
+  {
+   "symbol": "AAPLUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 4.758152603329004
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.0795448998450485
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 297
+  },
+  {
+   "symbol": "AAPLUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 4.752915683852808
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.088609221266487
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 297
+  },
+  {
+   "symbol": "AAPLUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 4.844577495797039
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.084289369207782
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 297
+  },
+  {
+   "symbol": "AAPLUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 4.736959431880929
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.098795540724022
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 297
+  },
+  {
+   "symbol": "AAPLUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 4.74834353991135
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.061282138311337
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 297
+  },
+  {
+   "symbol": "AAPLUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 4.6196920040095115
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.9350580986928088
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 297
+  },
+  {
+   "symbol": "AAPLUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 4.614691648201215
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.949219959066714
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 297
+  },
+  {
+   "symbol": "AAPLUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 4.619692003979107
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.93505809752196
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 297
+  },
+  {
+   "symbol": "AAPLUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 4.608629385786529
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.948835164885787
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 297
+  },
+  {
+   "symbol": "AAPLUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 4.613093152201116
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.9388430864085797
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 297
+  }
+ ]
+}

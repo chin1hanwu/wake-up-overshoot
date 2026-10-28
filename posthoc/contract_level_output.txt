@@ -1,0 +1,13 @@
+symbols 10 days ['2026-10-17', '2026-10-18'] dts [0.01, 0.05, 0.25, 1.0] methods ['E', 'E_cap', 'I', 'I_cap', 'OU_I']
+dt=0.01: contract-days I>E 20/20 (ties 0) p=9.54e-07; contracts (sum of 2 days) 10/10 p=9.77e-04; both days 10/10; contracts with I<=E: []; total I-E 3.086e+04
+    2026-10-17 I>E 10 /10
+    2026-10-18 I>E 10 /10
+dt=0.05: contract-days I>E 18/20 (ties 0) p=2.01e-04; contracts (sum of 2 days) 9/10 p=1.07e-02; both days 9/10; contracts with I<=E: ['SNDKUSDT']; total I-E 1.592e+05
+    2026-10-17 I>E 9 /10
+    2026-10-18 I>E 9 /10
+dt=0.25: contract-days I>E 18/20 (ties 0) p=2.01e-04; contracts (sum of 2 days) 9/10 p=1.07e-02; both days 9/10; contracts with I<=E: ['SNDKUSDT']; total I-E 2.664e+04
+    2026-10-17 I>E 9 /10
+    2026-10-18 I>E 9 /10
+dt=1.0: contract-days I>E 18/20 (ties 0) p=2.01e-04; contracts (sum of 2 days) 10/10 p=9.77e-04; both days 8/10; contracts with I<=E: []; total I-E 6.423e+04
+    2026-10-17 I>E 8 /10
+    2026-10-18 I>E 10 /10

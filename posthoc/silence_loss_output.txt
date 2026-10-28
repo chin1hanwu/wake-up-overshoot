@@ -1,0 +1,3 @@
+qc=0.02: silence loss L=60 1225.356, L=1200 1229.979, increase 4.623 nats
+qc=0.2: silence loss L=60 1034.104, L=1200 1034.569, increase 0.465 nats
+2m log 20 = 5991.464547107982

@@ -1,0 +1,330 @@
+{
+ "source": {
+  "symbol": "SPYUSDT",
+  "day": "2026-10-18",
+  "file": "SPYUSDT-aggTrades-2026-10-18.zip",
+  "events": 16705
+ },
+ "records": [
+  {
+   "symbol": "SPYUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 5.0555202397851335
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.314340734975884
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 99
+  },
+  {
+   "symbol": "SPYUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 5.0537162217713485
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.317959030029321
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 99
+  },
+  {
+   "symbol": "SPYUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.055988111142337
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.315054380708566
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 99
+  },
+  {
+   "symbol": "SPYUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 5.043123016123363
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.335435495126582
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 99
+  },
+  {
+   "symbol": "SPYUSDT",
+   "day": "2026-10-18",
+   "dt": 0.01,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 5.045185302853658
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.29992546372272
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 99
+  },
+  {
+   "symbol": "SPYUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 4.952060087421392
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.208462746592037
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 99
+  },
+  {
+   "symbol": "SPYUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 4.948379545192181
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.2171640056050945
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 99
+  },
+  {
+   "symbol": "SPYUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 4.952104429774899
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.208680908270677
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 99
+  },
+  {
+   "symbol": "SPYUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 4.9399238372803325
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.228689388634069
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 99
+  },
+  {
+   "symbol": "SPYUSDT",
+   "day": "2026-10-18",
+   "dt": 0.05,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 4.943556319394362
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.209619038101055
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 99
+  },
+  {
+   "symbol": "SPYUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 4.8184035026174925
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.07141191050394
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 99
+  },
+  {
+   "symbol": "SPYUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 4.813571080367574
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.079653523669023
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 99
+  },
+  {
+   "symbol": "SPYUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 4.815790099324334
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.074760463236963
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 99
+  },
+  {
+   "symbol": "SPYUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 4.806443503764872
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.091561840440675
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 99
+  },
+  {
+   "symbol": "SPYUSDT",
+   "day": "2026-10-18",
+   "dt": 0.25,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 4.809690134536215
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 4.064016669244878
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 99
+  },
+  {
+   "symbol": "SPYUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "E",
+   "score": {
+    "sign": -1,
+    "log10": 4.67290362308416
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.9266589218942842
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 99
+  },
+  {
+   "symbol": "SPYUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "I",
+   "score": {
+    "sign": -1,
+    "log10": 4.6698276336089055
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.9420433347765425
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 99
+  },
+  {
+   "symbol": "SPYUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "E_cap",
+   "score": {
+    "sign": -1,
+    "log10": 4.672903623122399
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.9266589221526935
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 99
+  },
+  {
+   "symbol": "SPYUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "I_cap",
+   "score": {
+    "sign": -1,
+    "log10": 4.6670506078713565
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.9430101005840053
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 99
+  },
+  {
+   "symbol": "SPYUSDT",
+   "day": "2026-10-18",
+   "dt": 1.0,
+   "method": "OU_I",
+   "score": {
+    "sign": -1,
+    "log10": 4.668293172163965
+   },
+   "silence_wake_5s_negative_logscore": {
+    "sign": 1,
+    "log10": 3.9356510182414683
+   },
+   "large_rate_bins": 0,
+   "daily_max_1s_count": 99
+  }
+ ]
+}

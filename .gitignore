@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+data/
+experiment/engine.exe
+experiment/build_info.json
+experiment/training_manifest.json
+experiment/train_cache/
+experiment/tuning/
+experiment/runs/
+experiment/*_io/
+experiment/scratch/
+theory/outputs/run_all.log
+theory/figures/
+theory/outputs/run_all_status.json
