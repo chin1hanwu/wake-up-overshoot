@@ -1,9 +1,25 @@
 # Exponential Wake-Up Overshoot in Explicit Gaussian Point-Process Filters
 
+Paper: [arXiv:2610.35958](https://arxiv.org/abs/2610.35958) | License: [Apache-2.0](LICENSE)
+
 Code and results for
 
 > H. Qin and D. Wang, "Exponential wake-up overshoot in explicit Gaussian point-process filters,"
 > arXiv:2610.35958, 2026. <https://arxiv.org/abs/2610.35958>
+
+When events resume after a long silence, explicit Gaussian point-process filters amplify the first update exponentially in the silence duration. This repository reproduces the paper's numerical checks of that effect, its synthetic experiments, and its real-data experiments, including the crossing index that predicts when the post-wake prediction overshoots the resumed rate.
+
+## Quick start (synthetic only, no external data)
+
+```sh
+cd experiment
+python build.py           # compile engine.cpp
+python check_engine.py    # C++ kernel vs NumPy/SciPy reference, bin by bin (19 checks)
+python run_experiment.py --synthetic-only --workers 6
+python compare_results.py runs/reproduction/results.json ../results/results.json
+```
+
+For the real-data experiments, which need Binance data downloaded separately, see [Real data (Binance)](#real-data-binance) below.
 
 This repository contains what is needed to reproduce the numerical checks of the theory, the
 synthetic and real-data experiments, and the figures. Section and appendix numbers below refer
@@ -36,7 +52,7 @@ Code comments and runtime messages are in Chinese. Labels in the JSON files:
 
 ## Reproducing
 
-All commands are run from `experiment/`.
+Build, check, and experiment commands below are run from `experiment/`.
 
 ```sh
 python build.py           # compile engine.cpp -> engine.exe
@@ -87,6 +103,8 @@ with the published `frozen_params.json`, which the experiment runner uses.
 
 The theory outputs reproduce up to floating-point rounding: with other numpy/scipy versions only
 the columns that record numerical errors change, by at most about 1e-12 in absolute value.
+
+Run the following from the repository root:
 
 ```sh
 python theory/verify/run_all.py      # from the repository root; ~2 min; rewrites theory/outputs/
